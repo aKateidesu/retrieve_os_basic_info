@@ -4,8 +4,8 @@
 
 ### Progress
 
-|                                 | Windows            | Linux | MacOS |
-| ------------------------------- | ------------------ | ----- | ----- |
-| Retrieve OS Version             | :white_check_mark: | TODO  | TODO  |
-| Retrieve Installed Applications | :white_check_mark: | TODO  | TODO  |
+|                                 | Windows            | Linux              | MacOS |
+| ------------------------------- | ------------------ | ------------------ | ----- |
+| Retrieve OS Version             | :white_check_mark: | :white_check_mark: | TODO  |
+| Retrieve Installed Applications | :white_check_mark: | TODO               | TODO  |
 
